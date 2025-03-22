@@ -36,7 +36,7 @@ This course introduces the fundamentals of **Machine Learning (ML)** with a focu
 
 ### Materials
 
-[class01 ![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class01/class01.pdf)
+📄 [class01.pdf](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class01/class01.pdf)
 
 ## 📘 Class 02 – Python Essentials and Intro to Data Analysis
 
@@ -59,7 +59,7 @@ Basic techniques for data manipulation and visualization using:
 
 ### Materials
 
-💻 Notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
+💻 [class2.ipynb](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
 
 ## 📘 Class 03 – Dimensionality Reduction, Clustering & Intro to Classification
 
@@ -82,7 +82,9 @@ The class is divided into three parts:
 
 ### Materials
 
-💻 Notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
+💻 [class3.ipynb](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
+
+
 
 ## 📘 Class 04 – Classification Models & Model Validation
 
