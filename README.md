@@ -13,7 +13,7 @@ This course introduces the fundamentals of **Machine Learning (ML)** with a focu
 
 ---
 
-## 📚 Week 01 – Course Outline  
+## 📚 Class 01 – Course Outline  
 [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class01/class01.pdf)
 
 Topics covered:
@@ -37,6 +37,27 @@ Topics covered:
 - Cyclic Voltammetry for Syphilis/HIV Detection  
 - DNA Sequence Analysis for Virus Classification  
 
+## 📘 Class 02 – Python Essentials and Intro to Data Analysis
+
+This notebook is part of the crash course **"Machine Learning in Life Sciences"**, aimed at graduate students in the biological sciences.
+
+The class is divided into two parts:
+
+### 🧩 Part I: Python Foundations  
+Introduction to core Python programming concepts, including:
+- Variables and data types  
+- Conditional statements and loops  
+- Functions and modular code  
+
+### 📊 Part II: Introduction to Data Analysis with Python  
+Basic techniques for data manipulation and visualization using:
+- **NumPy** for numerical operations  
+- **Pandas** for tabular data analysis  
+- **Matplotlib** and **Seaborn** for plotting and exploration  
+- First steps in **Exploratory Data Analysis (EDA)**
+
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
 ---
 
 ## 📁 Repository Structure
