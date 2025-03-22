@@ -36,7 +36,7 @@ This course introduces the fundamentals of **Machine Learning (ML)** with a focu
 
 ### Materials
 
-![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader): [class01.pdf](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class01/class01.pdf)
+[class01 ![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class01/class01.pdf)
 
 ## 📘 Class 02 – Python Essentials and Intro to Data Analysis
 
