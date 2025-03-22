@@ -227,3 +227,5 @@ The following papers were used to illustrate real ML applications in life scienc
 **Prof. Ignacio Sánchez-Gendriz**  
 Machine Learning & Signal Processing for Life Sciences  
 Federal University of Rio Grande do Norte (UFRN)  
+
+*Template inspired by the structure of [Prof. Ivanovitch Medeiros' GitHub](https://github.com/ivanovitchm)*
