@@ -58,6 +58,51 @@ Basic techniques for data manipulation and visualization using:
 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
+
+## 📘 Class 03 – Dimensionality Reduction, Clustering & Intro to Classification
+
+The class is divided into three parts:
+
+### 🔻 Part I: Dimensionality Reduction  
+- Understanding the **curse of dimensionality**  
+- Overview of **feature selection** and **feature extraction**  
+- Introduction to **Principal Component Analysis (PCA)**
+
+### 🧭 Part II: Clustering  
+- Key concepts and goals of clustering  
+- Methods: **K-means**, **Hierarchical Clustering**, and **DBSCAN**  
+- Practical examples using synthetic and real-world data
+
+### 🧩 Part III: Introduction to Classification  
+- Fundamentals of classification tasks  
+- Focus on the **K-Nearest Neighbors (KNN)** algorithm  
+- Implementation and evaluation with simple datasets
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
+
+## 📘 Class 04 – Classification Models & Model Validation
+
+This class covers the fundamentals of classification algorithms and how to properly evaluate them.
+
+### 🧠 1. Classification Tasks  
+- Understanding classification problems and how they differ from other ML tasks
+
+### ⚙️ 2. Machine Learning Classifiers  
+- Overview of classical ML classifiers (e.g., Decision Trees, SVMs, Logistic Regression)  
+- Introduction to **Artificial Neural Networks (ANNs)**  
+- Overview of the **ANN ecosystem** and its relevance to life sciences
+
+### 🧪 3. Overfitting & Underfitting  
+- Key concepts to understand model generalization  
+- How to identify and mitigate underfitting and overfitting in practice
+
+### 📏 4. Validating ML Classifiers  
+- Evaluation metrics for classification (accuracy, precision, recall, F1-score)  
+- Introduction to **cross-validation techniques**
+
+
+📄 [class4.pdf](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class04/class4.pdf)
+
 ---
 
 ## 📁 Repository Structure
