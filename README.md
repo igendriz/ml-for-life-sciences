@@ -81,7 +81,8 @@ ml-for-life-sciences/
 
 The following papers were used to illustrate real ML applications in life sciences during the course:
 
-- **Dengue Forecasting (Sci Rep, 2022)**  
+- **Dengue Forecasting (Sci Rep, 2022)**
+  `Data-driven computational intelligence applied to dengue outbreak forecasting: a case study at the scale of the city of Natal, RN-Brazil`
   [Link](https://doi.org/10.1038/s41598-022-10512-5)
 
 - **Ovitrap Dynamics (CBIC 2023)**  
