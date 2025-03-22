@@ -59,7 +59,10 @@ Basic techniques for data manipulation and visualization using:
 
 ### Materials
 
-💻 [class2.ipynb](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
+💻 [class2.ipynb](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
+
 
 ## 📘 Class 03 – Dimensionality Reduction, Clustering & Intro to Classification
 
@@ -82,9 +85,9 @@ The class is divided into three parts:
 
 ### Materials
 
-💻 [class3.ipynb](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
+💻 [class3.ipynb](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
 
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
 
 ## 📘 Class 04 – Classification Models & Model Validation
 
@@ -110,6 +113,49 @@ This class covers the fundamentals of classification algorithms and how to prope
 
 📄 [class4.pdf](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class04/class4.pdf)
 
+## 📘 Class 05 – End-to-End Machine Learning Project (Part I)
+
+This notebook initiates an end-to-end machine learning pipeline, covering the steps from raw data to model training.
+
+### 🎯 Specific Objectives
+
+1. **Load and Clean Data**  
+   Import the dataset and perform cleaning steps to handle missing values, outliers, and inconsistencies.
+
+2. **Explore and Visualize Data**  
+   Conduct exploratory data analysis (EDA) to understand data distribution and detect underlying patterns.
+
+3. **Prepare Data for Machine Learning**  
+   Apply preprocessing techniques such as feature engineering, scaling, and encoding to prepare the dataset for model training.
+
+4. **Select and Train Models**  
+   Choose suitable classification algorithms, train the models, and evaluate their initial performance.
+
+### 📄 Materials
+
+💻 [class05.ipynb](https://colab.research.google.com/drive/1XHDxwpcg2-fSEek4fs6eMVowwehMpCb-?authuser=1) 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XHDxwpcg2-fSEek4fs6eMVowwehMpCb-?authuser=1)
+
+## 📘 Class 06 – End-to-End Machine Learning Project (Part II)
+
+Continuation of the machine learning pipeline, focusing on model optimization and result presentation.
+
+### 🎯 Specific Objectives
+
+5. **Model Selection**  
+   Compare the performance of trained models using appropriate evaluation metrics to select the best-performing one.
+
+6. **Fine-Tune the Model**  
+   Perform hyperparameter optimization to improve the model's performance and generalization.
+
+7. **Present the Results**  
+   Summarize key findings, interpret the final model, and reflect on its applicability in real-world biological problems.
+
+### 📄 Materials
+
+💻 [class06.ipynb](https://colab.research.google.com/drive/1hnKlCz4LrvTDu-72fL2GGSzts8HOk96O?authuser=1)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hnKlCz4LrvTDu-72fL2GGSzts8HOk96O?authuser=1)
+
 ---
 
 ## 📁 Repository Structure
@@ -130,11 +176,9 @@ ml-for-life-sciences/
 │   ├── class01.pdf            ← Slides
 │   └── notebook_01.ipynb
 │
-├── Class02/
-├── Class03/
-├── Class04/
-├── Class05/
+├── ...
 ├── Class06/
+│   └── ...
 ```
 
 > 💡 Notebooks are designed to be run in [Google Colab](https://colab.research.google.com/).  
