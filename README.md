@@ -14,9 +14,6 @@ This course introduces the fundamentals of **Machine Learning (ML)** with a focu
 ---
 
 ## 📚 Class 01 – Course Outline  
-[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class01/class01.pdf)
-
-Topics covered:
 
 ### 1. Introduction  
 - What are AI, ML, and DL?  
@@ -35,7 +32,11 @@ Topics covered:
 - Shrimp Feeding Sound Detection  
 - Marine Species Identification  
 - Cyclic Voltammetry for Syphilis/HIV Detection  
-- DNA Sequence Analysis for Virus Classification  
+- DNA Sequence Analysis for Virus Classification
+
+### Materials
+
+![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader): [class01.pdf](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class01/class01.pdf)
 
 ## 📘 Class 02 – Python Essentials and Intro to Data Analysis
 
@@ -56,8 +57,9 @@ Basic techniques for data manipulation and visualization using:
 - **Matplotlib** and **Seaborn** for plotting and exploration  
 - First steps in **Exploratory Data Analysis (EDA)**
 
+### Materials
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
+💻 Notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqcwTfefs4T9jeByWvqRWyS3NJHvW1Gi?authuser=1#scrollTo=KChSJz_kGN6l)
 
 ## 📘 Class 03 – Dimensionality Reduction, Clustering & Intro to Classification
 
@@ -78,7 +80,9 @@ The class is divided into three parts:
 - Focus on the **K-Nearest Neighbors (KNN)** algorithm  
 - Implementation and evaluation with simple datasets
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
+### Materials
+
+💻 Notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eW9E22ixTmgAh1jC6ux-5VHno-mBsDl-?authuser=1)
 
 ## 📘 Class 04 – Classification Models & Model Validation
 
@@ -100,6 +104,7 @@ This class covers the fundamentals of classification algorithms and how to prope
 - Evaluation metrics for classification (accuracy, precision, recall, F1-score)  
 - Introduction to **cross-validation techniques**
 
+### Materials 
 
 📄 [class4.pdf](https://github.com/igendriz/ml-for-life-sciences/blob/main/Class04/class4.pdf)
 
@@ -128,7 +133,6 @@ ml-for-life-sciences/
 ├── Class04/
 ├── Class05/
 ├── Class06/
-└── ClassXX/                   ← Future classes
 ```
 
 > 💡 Notebooks are designed to be run in [Google Colab](https://colab.research.google.com/).  
