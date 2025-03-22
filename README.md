@@ -81,25 +81,29 @@ ml-for-life-sciences/
 
 The following papers were used to illustrate real ML applications in life sciences during the course:
 
-- **Dengue Forecasting (Sci Rep, 2022)**
-  `Data-driven computational intelligence applied to dengue outbreak forecasting: a case study at the scale of the city of Natal, RN-Brazil`
-  [Link](https://doi.org/10.1038/s41598-022-10512-5)
+- **Dengue Forecasting (Sci Rep, 2022)**  
+  *Data-driven computational intelligence applied to dengue outbreak forecasting: a case study at the scale of the city of Natal, RN-Brazil*  
+  [DOI: 10.1038/s41598-022-10512-5](https://doi.org/10.1038/s41598-022-10512-5)
 
-- **Ovitrap Dynamics (CBIC 2023)**  
-  `Deep Learning-Based Ovitrap Spatial Dynamics Analysis for Arbovirus Vector Monitoring`  
+- **Ovitrap Dynamics (CBIC, 2023)**  
+  *Deep Learning-Based Ovitrap Spatial Dynamics Analysis for Arbovirus Vector Monitoring*  
   [DOI: 10.21528/CBIC2023-056](https://doi.org/10.21528/CBIC2023-056)
 
 - **Fish Choruses (Frontiers in Antennas and Propagation, 2024)**  
-  [DOI: 10.3389/fanpr.2024.1400382](http://dx.doi.org/10.3389/fanpr.2024.1400382)
+  *Exploring fish choruses: patterns revealed through PCA computed from daily spectrograms*  
+  [DOI: 10.3389/fanpr.2024.1400382](https://doi.org/10.3389/fanpr.2024.1400382)
 
 - **Shrimp Feeding Detection (Aquaculture, 2025)**  
-  [DOI: 10.1016/j.aquaculture.2024.741645](http://dx.doi.org/10.1016/j.aquaculture.2024.741645)
+  *Python-based acoustic detection of Penaeus vannamei feeding behavior*  
+  [DOI: 10.1016/j.aquaculture.2024.741645](https://doi.org/10.1016/j.aquaculture.2024.741645)
 
 - **DNA Virus Classification (bioRxiv, 2024)**  
-  [DOI: 10.1101/2024.03.12.24304158](http://dx.doi.org/10.1101/2024.03.12.24304158)
+  *Gene Sequence to 2D Vector Transformation for Virus Classification*  
+  [DOI: 10.1101/2024.03.12.24304158](https://doi.org/10.1101/2024.03.12.24304158)
 
 - **Syphilis/HIV Detection (Computers in Biology and Medicine, 2024)**  
-  [DOI: 10.1016/j.compbiomed.2024.108454](http://dx.doi.org/10.1016/j.compbiomed.2024.108454)
+  *Digital dual test syphilis/HIV detection based on Fourier Descriptors of Cyclic Voltammetry curves*  
+  [DOI: 10.1016/j.compbiomed.2024.108454](https://doi.org/10.1016/j.compbiomed.2024.108454)
 
 ---
 
